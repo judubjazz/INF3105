@@ -1,0 +1,4 @@
+main : 9
+myfile : 10, 12
+ofstream : 10
+std : 7

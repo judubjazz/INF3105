@@ -1,0 +1,50 @@
+AffichageResultat : 117
+AnalyseMot : 176
+EstDansLeDic : 39
+EstUnCaractereValide : 96
+EstUnCommentaireEtoile : 64
+EstUnMotValide : 105
+SubstringDernierCaract : 156
+arbre : 117, 176, 207
+argc : 257
+argv : 193, 195, 200, 257
+avant_dernier_caract : 164
+buf : 218, 219
+cout : 21, 138, 144, 147, 147, 149, 252
+debut_commentaire : 67
+dernier_caract : 158
+endl : 21, 133, 149
+est_un_commentaire : 65, 209, 223, 228, 245
+est_un_commentaire_etoile : 210, 224
+est_un_mot_reserve : 181
+est_un_mot_valide : 180
+est_valide : 106, 110, 114
+fichier : 17, 194
+fichier_a_corriger : 195
+fichier_export : 122, 128, 131, 131, 133
+fin_commentaire : 66
+fin_du_commentaire : 211, 224, 241
+i : 42, 58, 109, 109, 111, 129, 129, 131, 145, 145, 147, 220
+ifstream : 17, 194
+index_etoile : 64, 212, 224
+index_fin_etoile : 64, 213, 224
+istringstream : 220
+iter : 119
+j : 41, 45, 53
+k : 54
+lettre : 97, 97, 97
+ligne : 176, 208
+metrique_second : 117, 199
+mot : 23, 24, 39, 46, 64, 162, 166, 168, 173, 176, 177, 205, 222, 230, 231, 235
+mot_backup : 230
+mots_reserves : 16, 206
+nom_fichier_export : 196, 200
+ofstream : 122
+position_dernier_caract : 157
+reponse : 40, 49, 62
+s : 126, 142
+size_t : 66, 67
+std : 9
+string : 23, 39, 47, 52, 57, 64, 117, 126, 142, 156, 195, 196, 205, 230
+test : 47, 52, 55, 57, 107, 233
+v : 127, 143
